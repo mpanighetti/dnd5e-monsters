@@ -1,6 +1,6 @@
 # dnd5e-monsters
 
-A collection of homebrew 5e monsters including lore, descriptions, and stat blocks.
+A collection of 5e homebrew monsters including lore, descriptions, and stat blocks.
 
 ## Resources
 
