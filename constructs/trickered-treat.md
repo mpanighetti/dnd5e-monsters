@@ -10,7 +10,7 @@ _**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can st
 
 <figure>
   <img src="trickered-treat-bowl.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
-  <figcaption>Trickered Treat Bowl by [Mario Panighetti](https://mario.panighetti.net)</figcaption>
+  <figcaption>Trickered Treat Bowl by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
 ## Attributes
