@@ -9,7 +9,7 @@ _**Constructed Nature.**_ Trickered treats do not require air, food, drink, or s
 _**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can still confer useful benefits to anyone who can stomach them. A Small or larger creature may swallow a grappled, restrained, or incapacitated trickered treat. Doing so instantly destroys the treat, and the creature must make a DC 15 Constitution saving throw. On a failed save, the creature is poisoned for 1 hour, and cannot regain hit points while poisoned in this manner. On a successful save, the creature gains the effects of the _haste_ spell for 1 minute (no concentration required).
 
 <figure>
-  <img src="trickered-treat-bowl.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
+  <img src="trickered-treat-bowl-mario-panighetti.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
   <figcaption>Trickered Treat Bowl by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
