@@ -26,6 +26,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 - Drop Bear (Challenge 3)
 - Giant Squid (Challenge 6)
 - Liodon (Challenge 6)
+- [Malagwan Seal](beasts/malagwan-seal.md) (Challenge ⅛)
 - Mosasaurus (Challenge 15)
 - Platecarpus (Challenge 3)
 
@@ -60,6 +61,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 - Passenger Sprite (Challenge ½)
 - Passenger Sprite Cloud (Challenge 16)
 - Phygius (Challenge 25)
+- [Selkie Warrior](fey/selkie-warrior.md) (Challenge 1)
 
 #### Fiends
 
@@ -110,7 +112,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition.
 
 ## License
 
-_dnd5e-monsters_ is © 2021 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_dnd5e-monsters_ is © 2020 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
 
