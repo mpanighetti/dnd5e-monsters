@@ -98,6 +98,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 #### Undead
 
 - [Avatar of Debt](undead/avatar-of-debt.md) (Challenge 1+)
+- [Frogpire](undead/frogpire.md) (Challenge 1)
 - Lichmare (Challenge 14)
 
 ## Credits
