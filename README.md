@@ -70,7 +70,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 #### Humanoids
 
 - Galos the Clothier (Challenge 11)
-- Werechimp (Challenge 2)
+- [Werechimp](humanoids/werechimp.md) (Challenge 2)
 
 #### Monstrosities
 
@@ -106,6 +106,15 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 ### Writing and Gameplay
 
 [Mario Panighetti](https://mario.panighetti.net)
+
+### Artists
+
+- [boi_global](https://twitter.com/boi_global)
+- [Haru](https://twitter.com/200dollarHaru)
+- Mario Panighetti
+- [RedDrawn Art](https://linktr.ee/RedDrawnArt)
+- [robogyaru](https://twitter.com/robogyaru)
+- [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
 
 ## Compatibility
 
