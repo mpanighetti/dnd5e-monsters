@@ -1,6 +1,6 @@
 # Avatar of Debt
 
-## Lore
+#### Lore
 
 > 'Tis impossible to be sure of any thing but Death and Taxes.
 
@@ -12,7 +12,7 @@ Though the scythe of this grim spectre looks intimidating, it draws neither bloo
 
 Any taxes the avatar collects are stowed away in a pocket dimension only it can access. If the avatar is reduced to 0 hit points, its pocket dimension collapses and its collected taxes appear on the ground where it previously stood.
 
-### Summoning an Avatar of Debt
+##### Summoning an Avatar of Debt
 
 The Dungeon Master may opt to replace the Ruin card from a _Deck of Many Things_ with the Audit card, which behaves as follows when drawn:
 
@@ -23,7 +23,7 @@ _**Audit.**_ You summon an avatar of debt – a ghostly skeleton creature clad i
   <figcaption>Avatar of Debt by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
 
-## Attributes
+#### Attributes
 
 _Medium undead, lawful evil_
 
@@ -43,7 +43,7 @@ _Medium undead, lawful evil_
 
 [^💀]: Technically, the avatar of debt breaks D&D's challenge rating system; in addition to its scaling hit point maximum (similar to the avatar of death), the avatar cannot deal damage, and thus on its face presents no challenge beyond time spent. But the impact on wealth could be devastating to some players or campaigns, regardless of level. For the purpose of this project, we'll call the avatar a CR1, as a 1st level character should be able to defeat it, and in any case won't die even if the avatar wins the encounter.
 
-## Special Traits
+#### Special Traits
 
 _**Ledger Domain.**_ If the creature that summoned the avatar has no wealth in physical coinage, the avatar immediately teleports to its pocket dimension and cannot be summoned again by that creature for one year.
 
@@ -53,7 +53,7 @@ _**Incorporeal Movement.**_ The avatar can move through other creatures and obje
 
 _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 
-## Actions
+#### Actions
 
 _**Taxes.**_ The avatar sweeps its spectral scythe through a creature within 5 feet of it. Roll a number of d12s equal to half the summoner's level or challenge rating (round down, minimum 1). A number of random coins equal to the dice roll immediately disappears from the target's wealth and reappears in the avatar's pocket dimension, and the avatar regains a number of hit points equal to the number of coins it takes.
 

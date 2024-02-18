@@ -1,6 +1,6 @@
 # dnd5e-monsters
 
-A collection of 5e homebrew monsters including lore, descriptions, and stat blocks.
+A collection of 5e homebrew monsters and vehicles including lore, descriptions, and stat blocks.
 
 ## Resources
 
@@ -101,6 +101,10 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 - [Frogpire](undead/frogpire.md) (Challenge 1)
 - Lichmare (Challenge 14)
 
+### Vehicles
+
+- [Starfire Ship](vehicles/starfire-ship.md)
+
 ## Credits
 
 ### Writing and Gameplay
@@ -131,3 +135,7 @@ All artwork for monsters sourced from the [Halloween Zero-to-Thirty Challenge Ra
 ## Third-Party Content References
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
+
+_Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.

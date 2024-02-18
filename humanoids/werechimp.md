@@ -1,6 +1,6 @@
 # Werechimp
 
-## Lore
+#### Lore
 
 Perhaps the least studied of lycanthropes, troganthropes tend to form tight-knit bands far away from human settlements to avoid persecution. Their societies are often found in dense jungles or tropical islands to help maintain their distance from society, and their interactions with humans are rare, often limited to the occasional wandering explorer or unfortunate shipwreck.
 
@@ -15,7 +15,7 @@ A character cursed with werechimp lycanthropy gains a Strength of 16 if their sc
   <figcaption>Werechimp by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
 
-## Attributes
+#### Attributes
 
 _Medium humanoid (any race, shapechanger)_
 
@@ -32,11 +32,11 @@ _Medium humanoid (any race, shapechanger)_
 - **Languages** Common (can't speak in chimp form)
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-## Special Traits
+#### Special Traits
 
 _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creature if at least one of the werechimp's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+#### Actions
 
 _**Multiattack (Human or Hybrid Form Only).**_ The werechimp makes up to two attacks, only one of which can be a bite.
 
