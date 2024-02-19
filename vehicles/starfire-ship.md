@@ -103,7 +103,7 @@ _**Spellshot (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The spel
 - 1st-level: _catapult_, _faerie fire_
 - 2nd-level: _shatter_
 
-Spells can be cast at higher levels by spending a number of starstuff deposits equal to the level, but the core cannot cast spells at a higher level than the highest-level spell it knows. Cantrips with additional effects at higher levels use the spelljammer's level to determine their effects.
+Spells can be cast at higher levels by spending a number of starstuff deposits equal to the level, but the core cannot cast spells at a higher level than the highest-level spell it knows. Cantrips with additional effects at higher levels use the spelljammer's level to determine their effects. Any spells cast in this manner requiring concentration use the spelljammer's concentration.
 
 ---
 
