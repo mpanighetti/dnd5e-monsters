@@ -41,13 +41,15 @@ _Gargantuan vehicle (130 ft. by 30 ft.)_
 
 On its turn, the starfire ship's spelljammer can use the helm to move and steer the ship, and the ship can take up to 3 actions, choosing from the options below.  It can take only 2 actions if it has fewer than ten crew and only 1 action if it has fewer than six. It can’t take these actions if it has fewer than three crew, and it cannot take actions dependent on a specific crew member if the individual is incapacitated.
 
-**Engineering.** The starfire ship's engineer can feed a spell scroll to the arcane core through the starstuff engine to attempt to teach the core a spell, or trigger a surge of the engine to move the ship in a burst of speed.
-
-**Operate Solar Scoops.** The spelljammer can instruct the crew to deploy or retract one of the ship's solar scoops.
+**Engineering.** The starfire ship's engineer can trigger a surge of the engine to move the ship in a burst of speed.
 
 **Fire Weapons.** The spelljammer can instruct the crew to fire one of the ship's ballistas, or the spelljammer can directly fire the astral cannon (1 ship action per weapon). The cannon's Astral Fire action cannot be taken on the same turn that the starfire ship moves.
 
-#### Arcane Core
+**Interface with Arcane Core.** The starfire ship's engineer can feed a spell scroll to the arcane core through the starstuff engine to attempt to teach the core a spell.
+
+**Operate Solar Scoops.** The spelljammer can instruct the crew to deploy or retract one of the ship's solar scoops.
+
+##### Arcane Core
 
 - **Armor Class** 13 (crystal)
 - **Hit Points** 25
@@ -55,40 +57,7 @@ On its turn, the starfire ship's spelljammer can use the helm to move and steer 
 
 _**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The engineer feeds a spell scroll to the arcane core through the starstuff engine, and must then succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell’s level. If the check succeeds, the arcane core successfully learns the spell. This check fails automatically if the spell has a casting time of 1 minute or longer, or a range of touch or self. Whether the check succeeds or fails, the spell scroll is destroyed.
 
-#### Starstuff Engine
-
-- **Armor Class** 18 (iron)
-- **Hit Points** 50
-- **Damage Threshold** 10
-- **Damage Immunities** radiant
-- **Crew** 1 (engineer)
-
-_**Engine Surge (Costs 2 Starstuff Deposits).**_ The engineer can trigger a surge of the engine, causing it to rapidly consume starstuff energy. The starfire ship moves up to 1,000 feet in a straight line in a direction of the spelljammer's choice, even if the ship would normally not be able to move this speed due to proximity of heavy objects. This movement does not provoke attacks of opportunity.
-
-#### Solar Scoops (2)
-
-- **Armor Class** 11 (cloth), or 15 when retracted (wood)
-- **Hit Points** 100
-- **Damage Threshold** 0 (10 when retracted)
-- **Damage Vulnerabilities** fire (when deployed)
-- **Crew** 2 (each)
-
-A deployed scoop can be used to harvest starstuff (see **Harvesting Starstuff**). If both solar scoops are deployed, roll twice on the corresponding harvest table to determine total yield or failure outcomes.
-
-_**Deploy Scoop.**_ The solar scoop is deployed.
-
-_**Retract Scoop.**_ The solar scoop is retracted.
-
-#### Ballistas (2)
-
-- **Armor Class** 15 (wood)
-- **Hit Points** 50
-- **Cost** 50 gp (ballista), 5 gp (bolt)
-- **Crew** 3 (each)
-
-_**Bolt.** Ranged Weapon Attack:_ +6 to hit, range 120/480 ft., one target. _Hit:_ 16 (3d10) piercing damage.
-
-#### Astral Cannon
+##### Astral Cannon
 
 - **Armor Class** 20 (iron)
 - **Hit Points** 50
@@ -104,6 +73,39 @@ _**Spellshot (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The spel
 - 2nd-level: _shatter_
 
 Spells can be cast at higher levels by spending a number of starstuff deposits equal to the level, but the core cannot cast spells at a higher level than the highest-level spell it knows. Cantrips with additional effects at higher levels use the spelljammer's level to determine their effects. Any spells cast in this manner requiring concentration use the spelljammer's concentration.
+
+##### Ballistas (2)
+
+- **Armor Class** 15 (wood)
+- **Hit Points** 50
+- **Cost** 50 gp (ballista), 5 gp (bolt)
+- **Crew** 3 (each)
+
+_**Bolt.** Ranged Weapon Attack:_ +6 to hit, range 120/480 ft., one target. _Hit:_ 16 (3d10) piercing damage.
+
+##### Solar Scoops (2)
+
+- **Armor Class** 11 (cloth), or 15 when retracted (wood)
+- **Hit Points** 100
+- **Damage Threshold** 0 (10 when retracted)
+- **Damage Vulnerabilities** fire (when deployed)
+- **Crew** 2 (each)
+
+A deployed scoop can be used to harvest starstuff (see **Harvesting Starstuff**). If both solar scoops are deployed, roll twice on the corresponding harvest table to determine total yield or failure outcomes.
+
+_**Deploy Scoop.**_ The solar scoop is deployed.
+
+_**Retract Scoop.**_ The solar scoop is retracted.
+
+##### Starstuff Engine
+
+- **Armor Class** 18 (iron)
+- **Hit Points** 50
+- **Damage Threshold** 10
+- **Damage Immunities** radiant
+- **Crew** 1 (engineer)
+
+_**Engine Surge (Costs 2 Starstuff Deposits).**_ The engineer can trigger a surge of the engine, causing it to rapidly consume starstuff energy. The starfire ship moves up to 1,000 feet in a straight line in a direction of the spelljammer's choice, even if the ship would normally not be able to move this speed due to proximity of heavy objects. This movement does not provoke attacks of opportunity.
 
 ---
 
