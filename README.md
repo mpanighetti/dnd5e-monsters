@@ -78,12 +78,12 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 - Dire Drop Bear (Challenge 10)
 - The King of Crabs (Challenge 28)
 - Leviathan Beetle (Challenge 21)
-- Murexian Beholder (Challenge 13)
-- Murexian Giant Boar (Challenge 2)
-- Murexian Hellwasp (Challenge 5)
-- Murexian Squirrel (Challenge 0)
-- Murexian Twig Blight (Challenge ⅛)
-- Murexian Tyrannosaurus rex (Challenge 10)
+- [Murexian Beholder](monstrosities/murexian-beholder.md) (Challenge 13)
+- [Murexian Giant Boar](monstrosities/murexian-giant-boar.md) (Challenge 2)
+- [Murexian Hellwasp](monstrosities/murexian-hellwasp.md) (Challenge 5)
+- [Murexian Squirrel](monstrosities/murexian-squirrel.md) (Challenge 0)
+- [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) (Challenge ⅛)
+- [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) (Challenge 10)
 
 #### Oozes
 
