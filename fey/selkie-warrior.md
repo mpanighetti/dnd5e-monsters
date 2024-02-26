@@ -46,4 +46,4 @@ While the selkie warrior's skin is not merged into their form, it is a wondrous 
 
 ---
 
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_

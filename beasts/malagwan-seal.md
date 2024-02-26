@@ -33,4 +33,4 @@ _**Bite.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 
 
 ---
 
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
