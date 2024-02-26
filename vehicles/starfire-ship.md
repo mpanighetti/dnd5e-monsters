@@ -2,7 +2,7 @@
 
 #### Lore
 
-Starfire vessels are an experimental ship design conceived by the Antipelan Society to both collect and run on starstuff energy. The first such starfire ship in the Antipelan fleet was given callsign **AP-SF-01** and later designated the **Sanguine Starcatcher** by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, potentially allowing future ships to be built.
+**Starfire Ships** are an experimental ship design conceived by the [Antipelan Society](https://github.com/mpanighetti/dnd5e-mote/tree/main/organizations/antipelan-society) to both collect and run on [starstuff](https://github.com/mpanighetti/dnd5e-mote/tree/main/lore/starstuff) energy. The first such [starstuff ship](https://github.com/mpanighetti/dnd5e-mote/tree/main/technology/starstuff-ships) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "**Sanguine Starcatcher**" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, potentially allowing future ships to be built.
 
 The stern of a starfire ship contains its signature feature, a spherical latticed metal chamber housing a ball of starstuff. This starstuff engine provides the ship with a powerful source of energy, allowing it faster travel through Fellspace compared to typical spelljamming vessels. The ship's pilot can trigger the chamber to ignite any starstuff inside, achieving great bursts of speed as the energy is rapidly depleted.
 
@@ -109,4 +109,4 @@ _**Engine Surge (Costs 2 Starstuff Deposits).**_ The engineer can trigger a surg
 
 ---
 
-_Source: [Starstuff](https://github.com/mpanighetti/dnd5e-starstuff)_
+_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
