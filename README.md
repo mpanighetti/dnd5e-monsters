@@ -74,6 +74,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 
 #### Monstrosities
 
+- [Beer](monstrosities/beer.md) (Challenge 3)
 - Cuckoo Mimic (Challenge 4)
 - Dire Drop Bear (Challenge 10)
 - The King of Crabs (Challenge 28)
