@@ -29,7 +29,7 @@ _Large monstrosity, unaligned_
 
 #### Special Traits
 
-_**Charge.**_ If the beer moves at least 10 feet in a straight line before hitting a creature with its claws, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+_**Charge.**_ If the beer moves at least 10 feet in a straight line and hits a creature with its claws on its turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 
 _**Pheremones.**_ The beer has advantage on Wisdom (Perception) checks that rely on smell. Additionally, up to a range of 1 mile, the beer knows the exact location of every other beer and any creature cursed by the **Mark of the Hive** bonus action, as well as whether that creature has been damaged or is attacking another creature.
 
