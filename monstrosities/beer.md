@@ -2,9 +2,11 @@
 
 #### Description
 
-A monstrous cross between apid and ursid, a beer combines the aggression and territoriality of a bee with the doesn't-die-when-it-hurts-you-once of a bear. Beers fill an important ecological niche, acting as pollinators of winter pansies and snow flowers in regions where normal bees are unable to survive. Their large bodies have layers of fat that protect them from the low temperatures.
+A monstrous cross between apid and ursid, a beer combines the aggression and territoriality of a bee with the doesn't-die-when-it-hurts-you-once of a bear. Beers fill an important ecological niche, acting as pollinators of winter pansies and snow flowers in climates where normal bees are unable to survive. Their large bodies have layers of fat that protect them from the low temperatures.
 
-Beers can live on typical bear diets, but their innate craving for honey leads them to produce their own, particularly when providing for their young. An adult beer's can easily fell large evergreens and strip their back to expose their sap, which they collect in cheek pouches and bring back to their hexagonal dens to produce honey. Beer honey is nutrient-rich and highly desirable by humanoid societies, but the inherent danger of attempting to collect it from a beer's den means such efforts are only attempted by the particularly brave or foolish.
+A beer superficially resembles a bear in size and build, but their extra two legs, compound eyes, dangling antennae, and massive stinger provide distinct visual differentiations. Its fur has patterns similar to a bee's body, with thick yellow-and-brown alternating stripes.
+
+Beers can live on typical bear diets, but their innate craving for honey leads them to produce their own, particularly when providing for their young. An adult beer can easily fell large evergreens and strip their bark with powerful claws to expose their sap, which they collect in cheek pouches and bring back to their hexagonal dens to produce honey. Beer honey is nutrient-rich and highly desired by humanoid societies for the production of mead, but the inherent danger of collecting it from a beer's den means such efforts are only attempted by the particularly brave or foolish.
 
 Like their insectoid brethren, beers are highly social and supportive of other beers from the same pack. When one beer is in distress, it emits a powerful pheromone calling other beers to its aid. And like the ursine creatures they resemble, a beer will relentlessly attack anything that endangers them or their cubs. These combined traits lead most aspiring beerkeepers to think better of such endeavors.
 
