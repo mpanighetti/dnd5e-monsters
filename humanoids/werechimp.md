@@ -17,7 +17,7 @@ A character cursed with werechimp lycanthropy gains a Strength of 16 if their sc
 
 #### Attributes
 
-_Medium humanoid (any race, shapechanger)_
+_Medium humanoid (any species, shapechanger)_
 
 - **Armor Class** 12
 - **Hit Points** 39 (6d8 + 12)
