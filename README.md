@@ -60,7 +60,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 - Barista Dryad (Challenge 8)
 - Passenger Sprite (Challenge ½)
 - Passenger Sprite Cloud (Challenge 16)
-- Phygius (Challenge 25)
+- [Phygius](fey/phygius.md) (Challenge 25)
 - [Selkie Warrior](fey/selkie-warrior.md) (Challenge 1)
 
 #### Fiends
