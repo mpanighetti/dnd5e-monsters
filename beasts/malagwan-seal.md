@@ -2,7 +2,7 @@
 
 #### Lore
 
-[Selkies](https://github.com/mpanighetti/dnd5e-mote/blob/main/species/selkie) in their seal form bear a superficial resemblance to the seal population in the waters of [Malagwa](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/malagwa), making it easy for one to go unnoticed amongst a larger pod. Though the seals have no special connection or direct relationship to selkies, the two peacefully coexist, and selkies maintain a great respect for what they see as distant cousins.
+[Selkies](https://github.com/mpanighetti/dnd5e-mote/blob/main/species/selkie.md) in their seal form bear a superficial resemblance to the seal population in the waters of [Malagwa](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/malagwa.md), making it easy for one to go unnoticed amongst a larger pod. Though the seals have no special connection or direct relationship to selkies, the two peacefully coexist, and selkies maintain a great respect for what they see as distant cousins.
 
 #### Attributes
 
