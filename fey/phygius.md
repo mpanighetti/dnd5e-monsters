@@ -21,6 +21,18 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
   <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
+##### Cultural references
+
+The Middlestag is mentioned in the song "[Remi O](https://github.com/mpanighetti/dnd5e-mote/blob/main/lore/remi-o.md)".
+
+#### Information
+
+- Pronouns: it/its
+- Classification: archfey
+- Alignment: Chaotic Neutral
+- Domains: Nature, Feywild
+- Aliases: Middlestag
+
 #### Attributes
 
 _Large fey (archfey), chaotic neutral_
