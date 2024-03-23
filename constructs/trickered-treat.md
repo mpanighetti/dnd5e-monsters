@@ -80,4 +80,4 @@ _**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_

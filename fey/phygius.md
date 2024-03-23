@@ -57,11 +57,9 @@ _Large fey (archfey), chaotic neutral_
 
 _**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no components:
 
-At will: _dispel magic_, _druidcraft_, _faerie fire_
-
-3/day each: _bless_, _charm monster_, _conjure animals_, _greater invisibility_, _moonbeam_, _plant growth_, _spike growth_, _suggestion_, _transport via plants_
-
-1/day each: _color spray_, _crown of stars_, _druid grove_, _geas_
+- At will: _dispel magic_, _druidcraft_, _faerie fire_
+- 3/day each: _bless_, _charm monster_, _conjure animals_, _greater invisibility_, _moonbeam_, _plant growth_, _spike growth_, _suggestion_, _transport via plants_
+- 1/day each: _color spray_, _crown of stars_, _druid grove_, _geas_
 
 Spells under 5th level are cast at 5th level.
 
@@ -101,4 +99,4 @@ Phygius can take 3 legendary actions, choosing from the options below. Only one 
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
