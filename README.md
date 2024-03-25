@@ -112,15 +112,6 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 
 [Mario Panighetti](https://mario.panighetti.net)
 
-### Artists
-
-- [boi_global](https://twitter.com/boi_global)
-- [Haru](https://twitter.com/200dollarHaru)
-- Mario Panighetti
-- [RedDrawn Art](https://linktr.ee/RedDrawnArt)
-- [robogyaru](https://twitter.com/robogyaru)
-- [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
-
 ## Compatibility
 
 This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
