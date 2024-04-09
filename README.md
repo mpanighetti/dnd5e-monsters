@@ -53,6 +53,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 
 #### Elementals
 
+- [Dire Clam](elementals/dire-clam.md)
 - Thunderbird (Challenge 26)
 
 #### Fey
