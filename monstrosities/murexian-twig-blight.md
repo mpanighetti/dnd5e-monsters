@@ -23,7 +23,7 @@ _Small plant/monstrosity, neutral evil_
 
 _**False Appearance.**_ While the blight remains motionless, it is indistinguishable from a dead shrub.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), it must succeed on a DC 9 Constitution saving throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Actions
 

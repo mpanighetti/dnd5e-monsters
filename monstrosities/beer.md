@@ -31,9 +31,9 @@ _Large monstrosity, unaligned_
 
 #### Special Traits
 
-_**Charge.**_ If the beer moves at least 10 feet in a straight line and hits a creature with its claws on its turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+_**Charge.**_ If the beer moves at least 10 feet in a straight line and hits a creature with its claws on its turn, the target must succeed on a DC 16 Strength Saving Throw or be knocked prone.
 
-_**Pheremones.**_ The beer has advantage on Wisdom (Perception) checks that rely on smell. Additionally, up to a range of 1 mile, the beer knows the exact location of every other beer and any creature cursed by the **Mark of the Hive** bonus action, as well as whether that creature has been damaged or is attacking another creature.
+_**Pheremones.**_ The beer has advantage on Wisdom (Perception) checks that rely on smell. Additionally, up to a range of 1 mile, the beer knows the exact location of every other beer and any creature cursed by the **Mark of the Hive**, as well as whether that creature has been damaged or is attacking another creature.
 
 #### Actions
 
@@ -41,7 +41,7 @@ _**Multiattack.**_ The beer makes two attacks with its claws and one with its st
 
 _**Claws.**_ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.
 
-_**Stinger (Recharge 5-6).**_ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 16 (2d10 + 5) piercing damage plus 18 (4d8) poison damage, and the creature must succeed on a DC 13 Constitution saving throw or be paralyzed. At the end of each of their turns, the creature can repeat their saving throw, ending the paralyzed condition on a successful save.
+_**Stinger (Recharge 5-6).**_ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 16 (2d10 + 5) piercing damage plus 18 (4d8) poison damage, and the creature must succeed on a DC 13 Constitution Saving Throw or be paralyzed. At the end of each of their turns, the creature can repeat their Saving Throw, ending the paralyzed condition on a successful save.
 
 #### Bonus Actions
 

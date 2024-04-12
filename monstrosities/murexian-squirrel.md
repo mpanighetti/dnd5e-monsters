@@ -27,9 +27,9 @@ _Tiny beast/monstrosity, unaligned_
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 
-_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel’s allies is within 5 feet of the creature and isn’t incapacitated.
+_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel's allies is within 5 feet of the creature and isn't incapacitated.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), it must succeed on a DC 9 Constitution saving throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Actions
 

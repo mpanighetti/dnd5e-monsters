@@ -39,9 +39,9 @@ _**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, a
 
 _**Murexian Poison.**_ All murexian poison damage and poisoned conditions dealt by the beholder treat poison immunity as poison resistance and ignore a target's normal poison resistance, unless the target has specific resistance or immunity to murexian poisons. Targets with poison immunity or murexian poison resistance have advantage on saves against murexian poisons, and targets with murexian poison immunity automatically succeed on such saves.
 
-_**Venom Surge.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), it must succeed on a DC 18 Constitution saving throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the beholder can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Venom Surge.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), it must succeed on a DC 18 Constitution Saving Throw or become poisoned with murex for 1 minute and paralyzed until the end of its next turn. A poisoned creature no longer in direct contact with the beholder can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-Additionally, a creature that is already poisoned by murex and fails this saving throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
+Additionally, a creature that is already poisoned by murex and fails this Saving Throw instead suffers one level of exhaustion. A creature cannot have more than one level of exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
 
 #### Actions
 
@@ -49,11 +49,11 @@ _**Bite.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14
 
 _**Eye Rays.**_ The beholder shoots three of its magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it. See the beholder stat block in the _Monster Manual_ for eye ray effects; the Enervation Ray is replaced with a Murexian Ray which behaves as follows:
 
-_Murexian Ray._ The targeted creature must make a DC 18 Constitution saving throw. On a failed save, the target takes 36 (8d8) murexian poison damage and is poisoned by murex as described in the Venom Surge trait. On a successful save, the ray damage is halved and the target is not poisoned by murex.
+_Murexian Ray._ The targeted creature must make a DC 18 Constitution Saving Throw. On a failed save, the target takes 36 (8d8) murexian poison damage and is poisoned by murex as described in the Venom Surge trait. On a successful save, the ray damage is halved and the target is not poisoned by murex.
 
 #### Legendary Actions
 
-The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature’s turn. The beholder regains spent legendary actions at the start of its turn.
+The beholder can take 3 legendary actions, using the Eye Ray option below. It can take only one legendary action at a time and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 
 **Eye Ray.** The beholder uses one random eye ray.
 
