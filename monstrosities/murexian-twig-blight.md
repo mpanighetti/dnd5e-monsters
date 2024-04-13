@@ -12,22 +12,21 @@ _Small plant/monstrosity, neutral evil_
 |:----:|:-----:|:-----:|:----:|:----:|:----:|
 |6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
 
-- **Damage Vulnerabilities** fire
-- **Damage Immunities** poison (including murexian poison)
-- **Condition Immunities** blinded, deafened, poisoned (including murexian poison)
+- **Vulnerabilities** Fire
+- **Immunities** Blinded, Deafened, Poison, murexian Poison
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
 - **Languages** understands Common but can't speak
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
 #### Special Traits
 
-_**False Appearance.**_ While the blight remains motionless, it is indistinguishable from a dead shrub.
+_**False Appearance.**_ While the blight remains motionless, they are indistinguishable from a dead shrub.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), they must succeed on a DC 9 Constitution Saving Throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
-_**Claws.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.
+_**Claws.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) Piercing damage.
 
 ---
 

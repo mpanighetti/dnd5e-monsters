@@ -40,13 +40,13 @@ _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creatu
 
 _**Multiattack (Human or Hybrid Form Only).**_ The werechimp makes up to two attacks, only one of which can be a bite.
 
-_**Bite (Chimp or Hybrid Form Only).**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution Saving Throw or be cursed with werechimp lycanthropy.
+_**Bite (Chimp or Hybrid Form Only).**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) Piercing damage. If the target is a humanoid, they must succeed on a DC 12 Constitution Saving Throw or be Cursed with werechimp lycanthropy.
 
-_**Fist.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
+_**Fist.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) Bludgeoning damage.
 
-_**Stone Dagger.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) piercing damage.
+_**Stone Dagger.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) Piercing damage.
 
-_**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or into a chimp, or back into its true form, which is humanoid. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its humanoid form if it dies.
+_**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or into a chimp, or back into their true form, which is humanoid. Their statistics, other than their speed, are the same in each form. Any equipment they are wearing or carrying isn't transformed. They revert to their humanoid form if they die.
 
 ---
 

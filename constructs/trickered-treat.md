@@ -6,7 +6,7 @@ A creation of hags tired of Feywild children demanding sweets at all hours of th
 
 _**Constructed Nature.**_ Trickered treats do not require air, food, drink, or sleep.
 
-_**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can still confer useful benefits to anyone who can stomach them. A Small or larger creature may swallow a grappled, restrained, or incapacitated trickered treat. Doing so instantly destroys the treat, and the creature must make a DC 15 Constitution Saving Throw. On a failed save, the creature is poisoned for 1 hour, and cannot regain hit points while poisoned in this manner. On a successful save, the creature gains the effects of the _haste_ spell for 1 minute (no Concentration required).
+_**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can still confer useful benefits to anyone who can stomach them. A Small or larger creature may swallow a Grappled, restrained, or incapacitated trickered treat. Doing so instantly destroys the treat, and the creature must make a DC 15 Constitution Saving Throw. On a failed save, the creature is Poisoned for 1 hour, and cannot regain Hit Points while Poisoned in this manner. On a successful save, the creature gains the effects of the _haste_ spell for 1 minute (no Concentration required).
 
 <figure>
   <img src="trickered-treat-bowl-mario-panighetti.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
@@ -25,8 +25,8 @@ _Tiny construct, same alignment as its creator_
 |:----:|:-----:|:-----:|:----:|:----:|:----:|
 |1 (-5)|13 (+1)|13 (+1)|1 (-5)|3 (-4)|1 (-5)|
 
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
-- **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6
+- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poison
+- **Senses** Blindsight 10 ft. (blind beyond this radius), passive Perception 6
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
@@ -40,7 +40,7 @@ _**Fun Size.**_ The trickered treat can occupy another creature's space and vice
 
 #### Actions
 
-_**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the trickered treat's space. _Hit:_ 1 bludgeoning damage, and if the target is a creature that has teeth, it must succeed on a DC 11 Constitution Saving Throw or take 2 (1d4) poison damage.
+_**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the trickered treat's space. _Hit:_ 1 Bludgeoning damage, and if the target is a creature that has teeth, they must succeed on a DC 11 Constitution Saving Throw or take 2 (1d4) Poison damage.
 
 # Swarm of Trickered Treats
 
@@ -60,8 +60,8 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 |:----:|:-----:|:-----:|:----:|:----:|:----:|
 |2 (-4)|15 (+2)|14 (+2)|1 (-5)|3 (-4)|1 (-5)|
 
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poison, Prone, Restrained, Stunned
 - **Senses** blindsight 10 ft. (blind beyond this radius), passive Perception 6
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
@@ -72,11 +72,11 @@ _**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of 
 
 _**False Appearance.**_ While the swarm remains motionless and isn't flying, it is indistinguishable from a normal pile of candy.
 
-_**Swarm.**_ The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain hit points or gain temporary hit points.
+_**Swarm.**_ The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.
 
 #### Actions
 
-_**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 5 (2d4) bludgeoning damage, or 2 (1d4) bludgeoning damage if the swarm has half of its hit points or fewer. If the target is a creature that has teeth and was hit by this attack, it must succeed on a DC 12 Constitution Saving Throw or take 2 (1d4) poison damage. The target has disadvantage on this Saving Throw if it has previously taken poison damage from a trickered treat in the last day.
+_**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 5 (2d4) Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the swarm has half of its Hit Points or fewer. If the target is a creature that has teeth and was hit by this attack, they must succeed on a DC 12 Constitution Saving Throw or take 2 (1d4) Poison damage. The target has disadvantage on this Saving Throw if they have previously taken Poison damage from a trickered treat in the last day.
 
 ---
 

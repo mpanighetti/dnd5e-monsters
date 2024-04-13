@@ -1,7 +1,7 @@
 # Murexian Squirrel
 
 <figure>
-  <img src="murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in its eyes and on its neon-striped fur, sitting atop a human skull." />
+  <img src="murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
   <figcaption>Murexian Squirrel by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
@@ -17,9 +17,8 @@ _Tiny beast/monstrosity, unaligned_
 |:----:|:-----:|:----:|:----:|:-----:|:----:|
 |2 (-4)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|4 (-3)|
 
-- **Damage Immunities** poison (including murexian poison)
-- **Condition Immunities** poisoned (including murexian poison)
-- **Senses** darkvision, passive Perception 10
+- **Immunities** Poison, murexian Poison
+- **Senses** Darkvision 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
@@ -27,13 +26,13 @@ _Tiny beast/monstrosity, unaligned_
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 
-_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel's allies is within 5 feet of the creature and isn't incapacitated.
+_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel's allies is within 5 feet of the creature and isn't Incapacitated.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), it must succeed on a DC 9 Constitution Saving Throw or become poisoned with murex for 1 minute. A poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), they must succeed on a DC 9 Constitution Saving Throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the Saving Throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
-_**Bite.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
+_**Bite.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 Piercing damage.
 
 ---
 
