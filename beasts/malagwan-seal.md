@@ -16,11 +16,13 @@ _Medium beast, unaligned_
 |:-----:|:-----:|:-----:|:----:|:-----:|:----:|
 |13 (+1)|14 (+2)|16 (+3)|5 (-3)|12 (+1)|5 (-3)|
 
-- **Damage Resistances** cold
-- **Senses** blindsight 5 ft., darkvision 60 ft., passive Perception 11
+- **Resistances** Cold
+- **Senses** Blindsight 5 ft., Darkvision 60 ft., passive Perception 11
 - **Languages** —
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
-___
+
+#### Special Traits
+
 _**Aquatic Fortitude.**_ The seal ignores any of the drawbacks caused by a deep, underwater environment. Additionally, while not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
 
 _**Hold Breath.**_ The seal can hold their breath for 30 minutes.

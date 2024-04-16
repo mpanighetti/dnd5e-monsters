@@ -16,7 +16,7 @@ _Tiny undead (shapechanger), chaotic evil_
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |4 (-3)|16 (+3)|12 (+1)|14 (+2)|14 (+2)|17 (+3)|
 
-- **Damage Resistances** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+- **Resistances** Necrotic; Bludgeoning, Piercing, and Slashing from nonmagical attacks
 - **Senses** Darkvision 60 ft., passive Perception 12
 - **Languages** understands Common but cannot speak
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2

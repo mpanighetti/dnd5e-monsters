@@ -17,8 +17,8 @@ _Medium fey (shapechanger), usually neutral_
 |14 (+2)|14 (+2)|18 (+4)|10 (+0)|15 (+2)|10 (+0)|
 
 - **Skills** Athletics +4, Perception +4, Survival +4
-- **Damage Resistances** cold
-- **Senses** blindsight 5 ft. (seal form only), darkvision 60 ft., passive Perception 14
+- **Resistances** Cold
+- **Senses** Blindsight 5 ft. (seal form only), Darkvision 60 ft., passive Perception 14
 - **Languages** Aquan, Common (can't speak in seal form)
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
