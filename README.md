@@ -51,7 +51,7 @@ Magic items are arranged alphabetically.
 |    Humanoid   | Galos the Clothier | 11 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
 |    Humanoid   | [Werechimp](humanoids/werechimp.md) | 2 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
 |  Monstrosity  | [Beer](monstrosities/beer.md) | 3 | |
-|  Monstrosity  | Cuckoo Mimic | 4 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
+|  Monstrosity  | [Cuckoo Mimic](monstrosities/cuckoo-mimic.md) | 4 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
 |  Monstrosity  | Dire Drop Bear | 10 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
 |  Monstrosity  | The King of Crabs | 28 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
 |  Monstrosity  | Leviathan Beetle | 21 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_ |
