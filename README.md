@@ -95,7 +95,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 #### Plants
 
 - Grass Warrior (Challenge 18)
-- Grinning Gourd (Challenge 3)
+- [Grinning Gourd](plants/grinning-gourd.md) (Challenge 3)
 
 #### Undead
 
