@@ -40,7 +40,7 @@ Magic items are arranged alphabetically.
 |    Dragon     | Spelunkamander | 22 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
 |    Dragon     | Void Dragon Wyrmling | 2 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
 |    Dragon     | Young Void Dragon | 9 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
-|   Elemental   | [Dire Clam](elementals/dire-clam.md) | 4 | |
+|   Elemental   | [Dire Clam](elementals/dire-clam.md) | 4 | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
 |   Elemental   | Thunderbird | 26 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
 |      Fey      | Barista Dryad | 8 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
 |      Fey      | Passenger Sprite | ½ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
