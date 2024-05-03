@@ -1,7 +1,7 @@
 # Murexian Squirrel
 
 <figure>
-  <img src="murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
   <figcaption>Murexian Squirrel by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 

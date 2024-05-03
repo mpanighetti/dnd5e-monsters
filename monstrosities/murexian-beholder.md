@@ -9,7 +9,7 @@ However this came to be, the beholder will find not only their body infused with
 Murexian beholders will happily make their new surroundings into a lair, tending to create vast tunnels underground amidst the mexite deposits from ancient volcanic activity. Their slaves dig until they hit magma flows, so that the beholder might better protect their interests through ever more hazardous pathways.
 
 <figure>
-  <img src="murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across their indigo body, with their eyes all shaded purple, and viscous purple liquid oozing from their mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across their indigo body, with their eyes all shaded purple, and viscous purple liquid oozing from their mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
   <figcaption>Murexian Beholder by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 

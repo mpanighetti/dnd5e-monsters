@@ -7,7 +7,7 @@ A common decoration for autumnal harvest festivals involves coring a large pumpk
 A grinning gourd animated by a magic candle in this manner has no sentience but serves its creator dutifully. They are sometimes employed as covert guards or remote eyes, though their usefulness in these efforts might be limited outside of harvest seasons. Would-be intruders that do not take notice of the gourds can be quickly subdued by their thorny vines until their creator arrives to confront the new captives. If the plants are overpowered, they immediately release their magical lifeforce as their candles explode, dealing one final blow to their opponents and possibly setting off a chain reaction for any other gourds in the vicinity.
 
 <figure>
-  <img src="grinning-gourd-mario-panighetti.png" alt="Drawing of the grinning gourd, depicting three jack-o'-lanterns with runes around their tops and menacing expressions for carved faces, one of which is holding a knife in its vine." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/grinning-gourd-mario-panighetti.png" alt="Drawing of the grinning gourd, depicting three jack-o'-lanterns with runes around their tops and menacing expressions for carved faces, one of which is holding a knife in its vine." />
   <figcaption>Grinning Gourd by <a href="https://mario.panighetti.net/">Mario Panighetti</a></figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 ### Murexian Hellwasp
 
 <figure>
-  <img src="murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on their body and wings." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on their body and wings." />
   <figcaption>Murexian Hellwasp by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 

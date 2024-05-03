@@ -19,7 +19,7 @@ The Dungeon Master may opt to replace the Ruin card from a _Deck of Many Things_
 _**Audit.**_ You summon an avatar of debt – a ghostly skeleton creature clad in a snappy business suit and burgundy tie, and carrying a spectral scythe. They appear in a space of the Dungeon Master's choice within 10 feet of you and attack you, warning all others that you must win the battle alone. The avatar fights you until you have no more wealth or they drop to 0 Hit Points, whereupon they disappear. If anyone besides you tries to attack the avatar, they summon their own avatar of debt. A creature whose wealth is reduced to 0 by an avatar of debt can't possess coinage for 3d10 days, during which time any coins they attempt to obtain disappear into the avatar's pocket dimension.
 
 <figure>
-  <img src="avatar-of-debt-reddrawnart.jpg" alt="Drawing of the avatar of debt, depicting a Grim Reaper-type skeleton wearing an all-black business suit and tie, carrying a giant dark scythe with glowing blue lines, and juggling some gold coins." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/avatar-of-debt-reddrawnart.jpg" alt="Drawing of the avatar of debt, depicting a Grim Reaper-type skeleton wearing an all-black business suit and tie, carrying a giant dark scythe with glowing blue lines, and juggling some gold coins." />
   <figcaption>Avatar of Debt by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ _**Characters as Werechimps.**_ The _Monster Manual_ has rules for characters af
 A character cursed with werechimp lycanthropy gains a Strength of 16 if their score isn't already higher. Attack and damage rolls for the werechimp's bite are based on whichever is higher of the character's Strength and Dexterity.
 
 <figure>
-  <img src="werechimp-reddrawnart.jpeg" alt="Drawing of the werechimp, depicting a bipedal creature with the general build of a human, but with chimpanzee head, empty eyes, and elongated fur-covered arms." />
+  <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/werechimp-reddrawnart.jpeg" alt="Drawing of the werechimp, depicting a bipedal creature with the general build of a human, but with chimpanzee head, empty eyes, and elongated fur-covered arms." />
   <figcaption>Werechimp by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
 
