@@ -10,102 +10,65 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Monsters are arranged by creature type and listed alphabetically, but any stat blocks that are part of a single family of creatures (e.g. void dragons) will share a single content page. Monsters with multiple creature types will be listed under whatever is considered their primary creature type.
 
-#### Aberrations
+Magic items are arranged alphabetically.
 
-- Apep the Fallen (Challenge 30)
-- Bears Repeating (Challenge 24)
-- Echoes of a Failed World (Challenge 29)
-- False Shadow (Challenge 7)
-- Living Empty (Challenge 19)
-- Seaharvest Horror (Challenge 12)
-
-#### Beasts
-
-- Crabnado (Challenge 3)
-- Dallasaurus (Challenge 1)
-- Drop Bear (Challenge 3)
-- Giant Squid (Challenge 6)
-- Liodon (Challenge 6)
-- [Malagwan Seal](beasts/malagwan-seal.md) (Challenge ⅛)
-- Mosasaurus (Challenge 15)
-- Platecarpus (Challenge 3)
-
-#### Celestials
-
-- Fallen Angel (Challenge 9)
-
-#### Constructs
-
-- Animated Corset (Challenge 1)
-- Animated Pair of Boots (Challenge ½)
-- Animated Pair of Gloves (Challenge 1)
-- Soul Warden (Challenge 20)
-- [Swarm of Trickered Treats](constructs/trickered-treat.md#swarm-of-trickered-treats) (Challenge ¼)
-- [Trickered Treat](constructs/trickered-treat.md) (Challenge 0)
-
-#### Dragons
-
-- Adult Void Dragon (Challenge 16)
-- Ancient Void Dragon (Challenge 23)
-- Spelunkamander (Challenge 22)
-- Void Dragon Wyrmling (Challenge 2)
-- Young Void Dragon (Challenge 9)
-
-#### Elementals
-
-- [Dire Clam](elementals/dire-clam.md) (Challenge 4)
-- Thunderbird (Challenge 26)
-
-#### Fey
-
-- Barista Dryad (Challenge 8)
-- Passenger Sprite (Challenge ½)
-- Passenger Sprite Cloud (Challenge 16)
-- [Phygius](fey/phygius.md) (Challenge 25)
-- [Selkie Warrior](fey/selkie-warrior.md) (Challenge 1)
-
-#### Fiends
-
-- The Boss from Hell (Challenge 17)
-
-#### Humanoids
-
-- Galos the Clothier (Challenge 11)
-- [Werechimp](humanoids/werechimp.md) (Challenge 2)
-
-#### Monstrosities
-
-- [Beer](monstrosities/beer.md) (Challenge 3)
-- Cuckoo Mimic (Challenge 4)
-- Dire Drop Bear (Challenge 10)
-- The King of Crabs (Challenge 28)
-- Leviathan Beetle (Challenge 21)
-- [Murexian Beholder](monstrosities/murexian-beholder.md) (Challenge 13)
-- [Murexian Giant Boar](monstrosities/murexian-giant-boar.md) (Challenge 2)
-- [Murexian Hellwasp](monstrosities/murexian-hellwasp.md) (Challenge 5)
-- [Murexian Squirrel](monstrosities/murexian-squirrel.md) (Challenge 0)
-- [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) (Challenge ⅛)
-- [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) (Challenge 10)
-
-#### Oozes
-
-- Gray Goo (Challenge 27)
-- Snot Hag (Challenge 5)
-
-#### Plants
-
-- Grass Warrior (Challenge 18)
-- [Grinning Gourd](plants/grinning-gourd.md) (Challenge 3)
-
-#### Undead
-
-- [Avatar of Debt](undead/avatar-of-debt.md) (Challenge 1+)
-- [Frogpire](undead/frogpire.md) (Challenge 1)
-- Lichmare (Challenge 14)
-
-### Vehicles
-
-- [Starfire Ship](vehicles/starfire-ship.md)
+| Creature Type | Monster | Challenge | Source |
+|:-:|:-|:-|:-|
+| Aberration | Apep the Fallen | 30 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Aberration | Bears Repeating | 24 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Aberration | Echoes of a Failed World | 29 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Aberration | False Shadow | 7 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Aberration | Living Empty | 19 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Aberration | Seaharvest Horror | 12 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Crabnado | 3 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Dallasaurus | 1 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Drop Bear | 3 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Giant Squid | 6 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Liodon | 6 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | [Malagwan Seal](beasts/malagwan-seal.md) | ⅛ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Mosasaurus | 15 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Beast | Platecarpus | 3 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Celestial | Fallen Angel | 9 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | Animated Corset | 1 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | Animated Pair of Boots | ½ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | Animated Pair of Gloves | 1 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | Soul Warden | 20 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | [Swarm of Trickered Treats](constructs/trickered-treat.md#swarm-of-trickered-treats) | ¼ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Construct | [Trickered Treat](constructs/trickered-treat.md) | 0 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Dragon | Adult Void Dragon | 16 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Dragon | Ancient Void Dragon | 23 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Dragon | Spelunkamander | 22 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Dragon | Void Dragon Wyrmling | 2 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Dragon | Young Void Dragon | 9 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Elemental | [Dire Clam](elementals/dire-clam.md) | 4 | |
+| Elemental | Thunderbird | 26 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Fey | Barista Dryad | 8 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Fey | Passenger Sprite | ½ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Fey | Passenger Sprite Cloud | 16 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Fey | [Phygius](fey/phygius.md) | 25 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Fey | [Selkie Warrior](fey/selkie-warrior.md) | 1 | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
+| Fiend | The Boss from Hell | 17 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Humanoid | Galos the Clothier | 11 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Humanoid | [Werechimp](humanoids/werechimp.md) | 2 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Beer](monstrosities/beer.md) | 3 | |
+| Monstrosity | Cuckoo Mimic | 4 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | Dire Drop Bear | 10 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | The King of Crabs | 28 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | Leviathan Beetle | 21 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Beholder](monstrosities/murexian-beholder.md) | 13 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Giant Boar](monstrosities/murexian-giant-boar.md) | 2 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Hellwasp](monstrosities/murexian-hellwasp.md) | 5 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Squirrel](monstrosities/murexian-squirrel.md) | 0 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) | ⅛ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Monstrosity | [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) | 10 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Ooze | Gray Goo | 27 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Ooze | Snot Hag | 5 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Plant | Grass Warrior | 18 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Plant | [Grinning Gourd](plants/grinning-gourd.md) | 3 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Undead | [Avatar of Debt](undead/avatar-of-debt.md) | 1+ | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Undead | [Frogpire](undead/frogpire.md) | 1 | |
+| Undead | Lichmare | 14 | [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc) |
+| Vehicle | [Starfire Ship](vehicles/starfire-ship.md) | | [Mote](https://github.com/mpanighetti/dnd5e-mote) |
 
 ## Credits
 
