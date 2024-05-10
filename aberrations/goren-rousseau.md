@@ -45,11 +45,11 @@ _**Spider Climb.**_ Goren can climb difficult surfaces, including upside-down on
 
 _**Multiattack.**_ Goren makes up to three attacks: one with his bite, and two with his claws.
 
-_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's Hit Point Maximum is reduced by the amount of damage taken from Goren's bite, Goren regains half that number of Hit Points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's Hit Point Maximum is restored to normal after a long rest.
+_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's Hit Point Maximum is reduced by the amount of damage taken from Goren's bite, Goren regains that number of Hit Points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's Hit Point Maximum is restored to normal after a long rest.
 
 _**Claws.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-_**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 12 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
+_**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 13 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
 
 ---
 
