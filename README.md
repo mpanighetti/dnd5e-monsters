@@ -104,4 +104,6 @@ _Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
 
 _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
 
+_Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
+
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
