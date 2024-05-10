@@ -49,4 +49,4 @@ _**Reel.**_ The grinning gourd reels in its vines to either move next to a const
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
