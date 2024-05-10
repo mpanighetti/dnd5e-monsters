@@ -34,7 +34,7 @@ _Medium undead, lawful neutral_
 
 _**Incorporeal Movement.**_ Neta can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
-_**Spellcasting.**_ Neta is a 3rd level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
+_**Spellcasting.**_ Neta is a 3rd-level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
 - Cantrips (at will): _mind sliver_, _prestidigitation_
 - 1st level (4 slots): _detect magic_, _earth tremor_, _sleep_, _Tasha's hideous laughter_
@@ -44,7 +44,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 
 #### Actions
 
-_**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage. The target must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
 
