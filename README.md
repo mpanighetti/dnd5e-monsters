@@ -10,8 +10,6 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Monsters are arranged by creature type and listed alphabetically, but any stat blocks that are part of a single family of creatures (e.g. void dragons) will share a single content page. Monsters with multiple creature types will be listed under whatever is considered their primary creature type.
 
-Magic items are arranged alphabetically.
-
 | Creature Type | Monster | Challenge | Source |
 |:-------------:|:--------|:---------:|:-------|
 |  Aberration   | Apep the Fallen | 30 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
