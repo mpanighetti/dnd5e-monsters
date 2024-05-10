@@ -50,4 +50,4 @@ _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or i
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
