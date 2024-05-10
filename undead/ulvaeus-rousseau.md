@@ -24,7 +24,7 @@ _Medium undead, lawful neutral_
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|12 (+1)|11 (+1)|10 (+0)|13 (+1)|
+|16 (+3)|14 (+2)|12 (+1)|11 (+1)|10 (+0)|15 (+2)|
 
 - **Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Immunities:** Exhausted, Grappled, Necrotic, Paralyzed, Petrified, Poison, Prone, Restrained, Unconscious
