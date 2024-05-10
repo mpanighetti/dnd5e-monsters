@@ -63,4 +63,4 @@ _**Change Shape.**_ The mimic polymorphs into a humanoid of the same race of a r
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
