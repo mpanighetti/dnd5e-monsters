@@ -60,4 +60,4 @@ The tax is collected even if the creature's wealth is not under their current ph
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
+_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
