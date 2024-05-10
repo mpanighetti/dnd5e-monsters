@@ -18,6 +18,7 @@ Magic items are arranged alphabetically.
 |  Aberration   | Bears Repeating | 24 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Echoes of a Failed World | 29 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | False Shadow | 7 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|  Aberration   | [Goren Rousseau](aberrations/goren-rousseau.md) | 5 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 |  Aberration   | Living Empty | 19 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Seaharvest Horror | 12 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | Crabnado | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
@@ -68,6 +69,8 @@ Magic items are arranged alphabetically.
 |     Undead    | [Avatar of Debt](undead/avatar-of-debt.md) | 1+ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Undead    | [Frogpire](undead/frogpire.md) | 1 | |
 |     Undead    | Lichmare | 14 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|     Undead    | [Neta Rousseau](undead/neta-rousseau.md) | 2 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+|     Undead    | [Ulvaeus Rousseau](undead/ulvaeus-rousseau.md) | 2 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 |    Vehicle    | [Starfire Ship](vehicles/starfire-ship.md) | | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 
 ## Credits
