@@ -46,8 +46,10 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |      Fey      | Passenger Sprite Cloud | 16 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |      Fey      | [Phygius](fey/phygius.md) | 25 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |      Fey      | [Selkie Warrior](fey/selkie-warrior.md) | 1 | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|     Fiend     | [Ag'dramur](fiends/agdramur.md) | 6 | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
 |     Fiend     | The Boss from Hell | 17 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |    Humanoid   | [Galos the Clothier](humanoids/galos-the-clothier.md) | 11 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|    Humanoid   | [The Great Undying](humanoids/the-great-undying.md) | 5 | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
 |    Humanoid   | [Werechimp](humanoids/werechimp.md) | 2 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Monstrosity  | [Beer](monstrosities/beer.md) | 3 | |
 |  Monstrosity  | [Cuckoo Mimic](monstrosities/cuckoo-mimic.md) | 4 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
@@ -69,6 +71,8 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |     Undead    | Lichmare | 14 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Undead    | [Neta Rousseau](undead/neta-rousseau.md) | 2 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 |     Undead    | [Ulvaeus Rousseau](undead/ulvaeus-rousseau.md) | 2 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
+|    Vehicle    | [Bathýs](vehicles/bathys.md) | | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
+|    Vehicle    | [Skate](vehicles/skate.md) | | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
 |    Vehicle    | [Starfire Ship](vehicles/starfire-ship.md) | | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 
 ## Credits
@@ -103,5 +107,7 @@ _Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
 _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
 
 _Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
+
+_Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
 
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
