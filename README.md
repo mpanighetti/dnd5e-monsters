@@ -101,11 +101,15 @@ All artwork for monsters sourced from the [Halloween Zero-to-Thirty Challenge Ra
 
 ## Third-Party Content References
 
+_Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
+
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 _Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
 
 _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
+
+_Tasha's Cauldron of Everything_ © 2020 Wizards of the Coast LLC.
 
 _Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
 
