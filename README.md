@@ -31,7 +31,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |   Construct   | [Animated Corset](constructs/animated-corset.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Construct   | [Animated Pair of Boots](constructs/animated-pair-of-boots.md) | ½ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Construct   | [Animated Pair of Gloves](constructs/animated-pair-of-gloves.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|   Construct   | [Esqueleto de Azúcar](constructs/esqueleto-de-azucar.md) | ¼ | [Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md) |
+|   Construct   | [Esqueleto de Azúcar](constructs/esqueleto-de-azucar.md) | ¼ | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 |   Construct   | Soul Warden | 20 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Construct   | [Swarm of Trickered Treats](constructs/trickered-treat.md#swarm-of-trickered-treats) | ¼ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Construct   | [Trickered Treat](constructs/trickered-treat.md) | 0 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
