@@ -10,7 +10,7 @@ If the party asks her for help, she will offer useful information. She learned h
 
 If the party has no books to offer, she will gladly take some life force from one volunteer in exchange. This sacrifice subjects the individual to a minor curse which reduces their Hit Point Maximum by 1d4 Hit Points. This reduction remains until the curse is removed.
 
-Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books** begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
+Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books**[^📚] begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
 
 #### Attributes
 
@@ -36,8 +36,8 @@ _**Incorporeal Movement.**_ Neta can move through other creatures and objects as
 
 _**Spellcasting.**_ Neta is a 3rd-level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-- Cantrips (at will): _mind sliver_, _prestidigitation_
-- 1st level (4 slots): _detect magic_, _earth tremor_, _sleep_, _Tasha's hideous laughter_
+- Cantrips (at will): _mind sliver_ [^🥘], _prestidigitation_
+- 1st level (4 slots): _detect magic_, _earth tremor_ [^🔥], _sleep_, _Tasha's hideous laughter_
 - 2nd level (2 slots): _blindness/deafness_, _ray of enfeeblement_
 
 _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -45,6 +45,10 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 #### Actions
 
 _**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+[^📚]: _Source: Candlekeep Mysteries_
+[^🥘]: _Source: Tasha's Cauldron of Everything_
+[^🔥]: _Source: Elemental Evil Player's Companion_
 
 ---
 
