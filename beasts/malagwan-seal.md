@@ -23,7 +23,7 @@ _Medium beast, unaligned_
 
 #### Special Traits
 
-_**Aquatic Fortitude.**_ The seal ignores any of the drawbacks caused by a deep, underwater environment. Additionally, while not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
+_**Aquatic Fortitude.**_ While not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
 
 _**Hold Breath.**_ The seal can hold their breath for 30 minutes.
 
