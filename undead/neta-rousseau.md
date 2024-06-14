@@ -1,6 +1,8 @@
 # Neta Rousseau
 
-Neta is the second-youngest Rousseau. She enjoys reading and is always looking for new books, but at this point she's gone through everything in the House that she can find.
+#### Description
+
+**Neta Rousseau** is the second-youngest Rousseau. She enjoys reading and is always looking for new books, but at this point she's gone through everything in the House that she can find.
 
 #### Behavior
 

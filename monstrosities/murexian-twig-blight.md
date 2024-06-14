@@ -18,7 +18,7 @@ _Small plant/monstrosity, neutral evil_
 - **Languages** understands Common but can't speak
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**False Appearance.**_ While the blight remains motionless, they are indistinguishable from a dead shrub.
 
@@ -30,4 +30,4 @@ _**Claws.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_

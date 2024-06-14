@@ -1,6 +1,6 @@
 # Werechimp
 
-#### Lore
+#### Description
 
 Perhaps the least studied of lycanthropes, troganthropes tend to form tight-knit bands far away from human settlements to avoid persecution. Their societies are often found in dense jungles or tropical islands to help maintain their distance from society, and their interactions with humans are rare, often limited to the occasional wandering explorer or unfortunate shipwreck.
 
@@ -14,6 +14,8 @@ A character cursed with werechimp lycanthropy gains a Strength of 16 if their sc
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/werechimp-reddrawnart.jpeg" alt="Drawing of the werechimp, depicting a bipedal creature with the general build of a human, but with chimpanzee head, empty eyes, and elongated fur-covered arms." />
   <figcaption>Werechimp by <a href="https://linktr.ee/RedDrawnArt">RedDrawn Art</a></figcaption>
 </figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -32,7 +34,7 @@ _Medium humanoid (any species, shapechanger)_
 - **Languages** Common (can't speak in chimp form)
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creature if at least one of the werechimp's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
@@ -51,3 +53,5 @@ _**Change Shape.**_ The werechimp polymorphs into a chimp–humanoid hybrid or i
 ---
 
 _Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

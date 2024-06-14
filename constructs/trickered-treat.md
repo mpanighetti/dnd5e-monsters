@@ -1,6 +1,6 @@
 # Trickered Treat
 
-#### Lore
+#### Description
 
 A creation of hags tired of Feywild children demanding sweets at all hours of the night, trickered treats are animated candies designed to look as inviting and appetizing as possible, so that they might tempt would-be victims into having a taste. Such temptations are short-lived, as the candies will immediately assail anyone interacting with them, taking careful aim at the creature's mouth and pummeling their teeth until they retreat. The treats are theoretically edible, but are coated with a putrefying concoction that will cause the most steel-hearted consumer's stomach to lurch violently.
 
@@ -12,6 +12,8 @@ _**Sugar Rush.**_ Even though trickered treats are toxic to consume, they can st
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/trickered-treat-bowl-mario-panighetti.png" alt="Drawing of trickered treats, depicting a green glass bowl with Tide Pods wrapped like candies." />
   <figcaption>Trickered Treat Bowl by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -30,7 +32,7 @@ _Tiny construct, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Antimagic Susceptibility.**_ The trickered treat is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the treat must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall unconscious for 1 minute.
 
@@ -44,7 +46,7 @@ _**Cavity.**_ _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the t
 
 # Swarm of Trickered Treats
 
-#### Lore
+#### Description
 
 The more children a hag has wandering their premises looking for handouts, the bigger the candy pile needed to get rid of them.
 
@@ -66,7 +68,7 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the swarm must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall Unconscious for 1 minute.
 
@@ -81,3 +83,5 @@ _**Cavities.**_ _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one target in the
 ---
 
 _Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

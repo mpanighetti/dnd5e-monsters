@@ -1,6 +1,6 @@
 # Cuckoo Mimic
 
-### Lore
+#### Description
 
 The adventurers cannot remember a time when Reginald was not among them, though they are hard-pressed to recall when they first met. He's just seemingly always been there, fighting alongside them in difficult encounters, sharing drinks at the local tavern, taking turns keeping vigilant watch over their sleeping innocent forms in the dark wilderness at night. Reggie is their comrade, their friend, their protector, their lover, and they would all readily sacrifice themselves to protect him, as they assume he would for them. That's just the special connection they share, as they definitely always have.
 
@@ -17,7 +17,9 @@ _**Affable Form.**_ When the cuckoo mimic first joins a group, it chooses a huma
   <figcaption>Cuckoo Mimic by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
 
-### Attributes
+[^🎃]
+
+#### Attributes
 
 _Medium monstrosity (shapechanger), neutral_
 
@@ -35,7 +37,7 @@ _Medium monstrosity (shapechanger), neutral_
 - **Languages** none in true form; speaks all the languages of its hosts in humanoid form
 - **Challenge** 4 (1,100 XP) **Proficiency Bonus:** +2
 
-### Special Traits
+#### Special traits
 
 _**Adhesive.**_ The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 14). Ability checks made to escape this grapple have disadvantage. The mimic can choose to suppress this trait at any time.
 
@@ -53,7 +55,7 @@ At will: _mind sliver_
 
 3/day: _mind spike_
 
-### Actions
+#### Actions
 
 _**Pseudopod.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage. If the mimic so chooses, the target is subjected to its Adhesive trait if hit by this attack.
 
@@ -64,3 +66,5 @@ _**Change Shape.**_ The mimic polymorphs into a humanoid of the same race of a r
 ---
 
 _Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

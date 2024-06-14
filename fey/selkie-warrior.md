@@ -1,6 +1,6 @@
 # Selkie Warrior
 
-#### Lore
+#### Description
 
 [Selkie](https://github.com/mpanighetti/dnd5e-mote/blob/main/species/selkie.md) pods fiercely defend themselves from hostile intrusions, with warriors acting as a protective barrier to shelter the community's pups.
 
@@ -22,7 +22,7 @@ _Medium fey (shapechanger), usually neutral_
 - **Languages** Aquan, Common (can't speak in seal form)
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Aquatic Fortitude.**_ While not wearing armor, the selkie's Armor Class equals 12 + their Constitution modifier (included in the stat block).
 

@@ -1,5 +1,7 @@
 # Ag'dramur
 
+#### Description
+
 Just as an injured animal can still be a threat, so too is a marilith with fewer arms no less of a concern to mortals and fiends alike. Ag'dramur continues to wield her four cutlasses with a ferocity, laying waste to her enemies before they have a chance to count her limbs.
 
 #### Background

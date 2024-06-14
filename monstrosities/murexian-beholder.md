@@ -1,6 +1,6 @@
 # Murexian Beholder
 
-#### Lore
+#### Description
 
 It is a strange scenario indeed for a beholder to allow themself to become corrupted by murex. This might occur if the beholder was driven out of their lair and had to flee, finding themself in the Murexian Grove and subsisting on the tainted flesh of the beasts found there to survive. Or it may have been a conscious decision, some play to take in these powerful toxins to use against their real or perceived foes. The ambitions of a beholder are sometimes difficult to predict, and a beholder prefers it this way.
 
@@ -12,6 +12,8 @@ Murexian beholders will happily make their new surroundings into a lair, tending
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across their indigo body, with their eyes all shaded purple, and viscous purple liquid oozing from their mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
   <figcaption>Murexian Beholder by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -32,7 +34,7 @@ _Large aberration/monstrosity, lawful evil_
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 13 (10,000 XP) **Proficiency Bonus** +5
 
-#### Special Traits
+#### Special traits
 
 _**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot-cone. At the start of each of their turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
@@ -58,4 +60,6 @@ The beholder can take 3 Legendary Actions, using the Eye Ray option below. It ca
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

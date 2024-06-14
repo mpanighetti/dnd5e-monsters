@@ -1,8 +1,8 @@
 # Galos the Clothier
 
-#### Lore
+#### Description
 
-The latest of many generations of tailors, Galos made an honest living repairing and selling fine clothing for the nobility of Bridgeport. But when a competing tailor started to take his normal business, jealousy got the best of him and he sought to sabotage his foe. He forged a pact with a devil at the crossroads, and the fiend imbued Galos' blood with the ability to enthrall his enemies. This gift was triggered if Galos spilt his own blood over any article of clothing; the blood would merge into the fabrics, and anyone who wore the cursed articles would find themself under his direct psychic control.
+The latest of many generations of tailors, Galos made an honest living repairing and selling fine clothing for the nobility of [Bridgeport](https://github.com/mpanighetti/dnd5e-mote/blob/main/societies/esterfell-accord/bridgeport/bridgeport.md). But when a competing tailor started to take his normal business, jealousy got the best of him and he sought to sabotage his foe. He forged a pact with a devil at the crossroads, and the fiend imbued Galos' blood with the ability to enthrall his enemies. This gift was triggered if Galos spilt his own blood over any article of clothing; the blood would merge into the fabrics, and anyone who wore the cursed articles would find themself under his direct psychic control.
 
 Galos' sabotage was an immediate success. After tainting the competition's clothing, he compelled the unfortunate customers to go into a blind rage, lashing out against friends and loved ones, rioting, and ultimately taking their own lives. The other tailor was ruined and run out of town, and Galos enjoyed the sudden upturn in his business. But the wicked clothier was not satisfied by this single act of treachery, and soon he extended his influence further still.
 
@@ -16,6 +16,8 @@ In death, Galos' corrupted soul was condemned to serve the devils in the Blood W
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/galos-the-clothier-mario-panighetti.png" alt="Drawing of Galos the Clothier and several Animated Clothing monsters, depicting an elderly man wearing an old-fashioned brimmed hat and vest, holding his hands in the air like a conductor, while a shirt, shoes, and scarf float around him, all surrounded by dark energy auras." />
   <figcaption>Galos the Clothier by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -65,4 +67,6 @@ _**Blood Curse.**_ Galos spills his own blood on an article of clothing in his p
 
   ---
 
-  _Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+  _Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+
+  [^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

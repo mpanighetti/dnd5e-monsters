@@ -37,4 +37,4 @@ _**Stop Hitting Yourself.**_ The pair of gloves attempts to slap or punch the cr
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_

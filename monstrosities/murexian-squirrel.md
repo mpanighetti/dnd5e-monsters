@@ -5,6 +5,8 @@
   <figcaption>Murexian Squirrel by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
+[^🎃]
+
 #### Attributes
 
 _Tiny beast/monstrosity, unaligned_
@@ -22,7 +24,7 @@ _Tiny beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -36,4 +38,6 @@ _**Bite.**_ _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

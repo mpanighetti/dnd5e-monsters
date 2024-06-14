@@ -31,4 +31,4 @@ _**Cinch.**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one Medium or Small 
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_

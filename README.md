@@ -10,8 +10,8 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Monsters are arranged by creature type and listed alphabetically, but any stat blocks that are part of a single family of creatures (e.g. void dragons) will share a single content page. Monsters with multiple creature types will be listed under whatever is considered their primary creature type.
 
-| Creature Type | Monster | Challenge | Source |
-|:-------------:|:--------|:---------:|:-------|
+| Creature Type | Monster | Challenge | Sources |
+|:-------------:|:--------|:---------:|:--------|
 |  Aberration   | Apep the Fallen | 30 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Bears Repeating | 24 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Echoes of a Failed World | 29 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
@@ -28,9 +28,9 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |     Beast     | Mosasaurus | 15 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | Platecarpus | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Celestial   | Fallen Angel | 9 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|   Construct   | [Animated Corset](constructs/animated-corset.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|   Construct   | [Animated Pair of Boots](constructs/animated-pair-of-boots.md) | ½ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|   Construct   | [Animated Pair of Gloves](constructs/animated-pair-of-gloves.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|   Construct   | [Animated Corset](constructs/animated-corset.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|   Construct   | [Animated Pair of Boots](constructs/animated-pair-of-boots.md) | ½ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|   Construct   | [Animated Pair of Gloves](constructs/animated-pair-of-gloves.md) | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |   Construct   | [Esqueleto de Azúcar](constructs/esqueleto-de-azucar.md) | ¼ | _[Guadaña](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md)_ |
 |   Construct   | Soul Warden | 20 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |   Construct   | [Swarm of Trickered Treats](constructs/trickered-treat.md#swarm-of-trickered-treats) | ¼ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
@@ -45,11 +45,11 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |      Fey      | Barista Dryad | 8 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |      Fey      | Passenger Sprite | ½ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |      Fey      | Passenger Sprite Cloud | 16 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|      Fey      | [Phygius](fey/phygius.md) | 25 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|      Fey      | [Phygius](fey/phygius.md) | 25 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |      Fey      | [Selkie Warrior](fey/selkie-warrior.md) | 1 | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |     Fiend     | [Ag'dramur](fiends/agdramur.md) | 6 | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
 |     Fiend     | The Boss from Hell | 17 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|    Humanoid   | [Galos the Clothier](humanoids/galos-the-clothier.md) | 11 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|    Humanoid   | [Galos the Clothier](humanoids/galos-the-clothier.md) | 11 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |    Humanoid   | [The Great Undying](humanoids/the-great-undying.md) | 5 | _[The Stygian Sea](https://github.com/mpanighetti/dnd5e-stygian-sea)_ |
 |    Humanoid   | [Werechimp](humanoids/werechimp.md) | 2 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Monstrosity  | [Beer](monstrosities/beer.md) | 3 | |
@@ -57,12 +57,12 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |  Monstrosity  | Dire Drop Bear | 10 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Monstrosity  | The King of Crabs | 28 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Monstrosity  | Leviathan Beetle | 21 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Beholder](monstrosities/murexian-beholder.md) | 13 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Giant Boar](monstrosities/murexian-giant-boar.md) | 2 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Hellwasp](monstrosities/murexian-hellwasp.md) | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Squirrel](monstrosities/murexian-squirrel.md) | 0 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) | ⅛ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Monstrosity  | [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) | 10 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|  Monstrosity  | [Murexian Beholder](monstrosities/murexian-beholder.md) | 13 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|  Monstrosity  | [Murexian Giant Boar](monstrosities/murexian-giant-boar.md) | 2 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|  Monstrosity  | [Murexian Hellwasp](monstrosities/murexian-hellwasp.md) | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|  Monstrosity  | [Murexian Squirrel](monstrosities/murexian-squirrel.md) | 0 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|  Monstrosity  | [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) | ⅛ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
+|  Monstrosity  | [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) | 10 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |      Ooze     | Gray Goo | 27 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |      Ooze     | Snot Hag | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Plant     | Grass Warrior | 18 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |

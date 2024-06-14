@@ -2,7 +2,7 @@
 
 #### Description
 
-A monster stat block written based on a prompt on the ADHd3 Discord server: "amphibious creature of the night"
+The **frogpire** is a monster stat block written based on a prompt on the ADHd3 Discord server: "amphibious creature of the night"
 
 #### Attributes
 
@@ -21,7 +21,7 @@ _Tiny undead (shapechanger), chaotic evil_
 - **Languages** understands Common but cannot speak
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Regeneration.**_ The frogpire regains 1d4 Hit Points at the start of their turn. If the frogpire takes Radiant damage or is in sunlight, this trait doesn't function at the start of the frogpire's next turn. If the frogpire starts their turn with 0 Hit Points and doesn't regenerate, they are destroyed.
 

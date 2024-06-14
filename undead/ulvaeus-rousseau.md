@@ -1,6 +1,8 @@
 # Ulvaeus Rousseau
 
-Ulvaeus is second-born of the Rousseau family and comes off as a competitive jock.
+#### Description
+
+**Ulvaeus Rousseau** is the second-born child of the Rousseau family and comes off as a competitive jock.
 
 #### Behavior
 

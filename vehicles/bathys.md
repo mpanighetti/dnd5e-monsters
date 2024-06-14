@@ -1,5 +1,7 @@
 # Bathýs
 
+#### Description
+
 If one squints, the Bathýs superficially resembles a sailing vessel one might see on the oceans of the Material Plane, but a closer examination reveals the vessel to be mechanical in design and built of a dark infernal iron. Its hull is assembled from scraps of motorized land vehicles, with large metal beams twisted into tight braids in the vague shape of a ship, but pulsing with the churning of gears and an infusion of chaotic magical energy that provides buoyancy.
 
 The Bathýs accounts for the Stygian Sea's lack of predicable winds with an enchanted sail that allows for movement in still or opposing winds. To power this magic, a furnace in the belly of the ship fuels the mast and sails with the energy of consumed souls.

@@ -1,5 +1,7 @@
 # Esqueleto de Azúcar
 
+#### Description
+
 Superficially similar to an undead skeleton, an esqueleto de azúcar (sugar skeleton) is assembled from a sugar-based confection called alfeñique, then animated through magical means.
 
 #### Attributes

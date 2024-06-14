@@ -5,6 +5,8 @@
   <figcaption>Murexian Hellwasp by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
 </figure>
 
+[^🎃]
+
 #### Attributes
 
 _Large fiend/monstrosity, lawful evil_
@@ -24,7 +26,7 @@ _Large fiend/monstrosity, lawful evil_
 - **Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
 - **Challenge** 5 (1,800 XP) **Proficiency Bonus** +3
 
-#### Special Traits
+#### Special traits
 
 _**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 
@@ -42,4 +44,6 @@ _**Sword Talons.**_ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

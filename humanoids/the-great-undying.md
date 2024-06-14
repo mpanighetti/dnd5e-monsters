@@ -1,5 +1,7 @@
 # The Great Undying
 
+#### Description
+
 Amidst the chaos of the changing seascape, an opportunistic pirate, tired of wandering the lands and protecting what remained of her tattered soul from hellish fiends, commandeered a vehile and converted it into a mighty sailing vessel. She christened her new ship the Bathýs and began patrolling the new Stygian Sea, taking up a career of piracy as she did in life. Now in her element once again, she has turned the tide against her oppressors and lives freely in the infernal realm, plundering what she can to survive and thrive as she tries to build an armada and wrest more power from the cadre of devilish rulers as they struggle to hold their positions.
 
 #### Background

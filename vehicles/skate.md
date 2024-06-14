@@ -1,5 +1,7 @@
 # Skate
 
+#### Description
+
 With its lack of weaponry, this boat is seemingly not a major threat to larger vessels of war. That impression fades quickly, however, as a skate can catch its foes by surprise with its speed and maneuverability, allowing it to nimbly dodge enemy fire and close in on its prey. Small fleets of skates can bring down a ship quickly by swarming and surrounding it, then boarding it to take out the crew in close-quarters combat rather than trying to overpower their siege weapons.
 
 The skate achieves this impressive maneuverability by using souls to power a small propeller at the rear of the vehicle. With sufficient power, a skate can run circles around sail-powered vessels in any wind conditions. It's built like a motorcycle, but its wheels have been replaced with long flat metal beams, allowing it to quickly glide across the water.

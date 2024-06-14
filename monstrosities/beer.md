@@ -28,7 +28,7 @@ _Large monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 3 (700 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Charge.**_ If the beer moves at least 10 feet in a straight line and hits a creature with their claws on their turn, the target must succeed on a DC 16 Strength Saving Throw or be knocked Prone.
 

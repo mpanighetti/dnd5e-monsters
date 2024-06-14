@@ -1,6 +1,6 @@
 # Grinning Gourd
 
-#### Lore
+#### Description
 
 A common decoration for autumnal harvest festivals involves coring a large pumpkin, carving a smiling or scowling face, and placing a lit candle inside. These "grinning gourds" cast their expressions into eerie flickering shadows but mostly provide a harmless spooky ambience. In some cases, however, these visages are twisted by sinister magic to serve the caster's nefarious purposes.
 
@@ -10,6 +10,8 @@ A grinning gourd animated by a magic candle in this manner has no sentience but 
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/grinning-gourd-mario-panighetti.png" alt="Drawing of the grinning gourd, depicting three jack-o'-lanterns with runes around their tops and menacing expressions for carved faces, one of which is holding a knife in its vine." />
   <figcaption>Grinning Gourd by <a href="https://mario.panighetti.net/">Mario Panighetti</a></figcaption>
 </figure>
+
+[^🎃]
 
 ### Attributes
 
@@ -29,7 +31,7 @@ _Small plant, unaligned_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 3 (700 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Explode.**_ When the grinning gourd is reduced to 0 hit points, it immediately explodes in a concussive blast of flame. All creatures within a 20-foot radius must make a DC 14 Dexterity saving throw. On a failed save, a creature takes 16 (3d10) fire damage and is knocked prone. On a succesful save, the fire damage is halved and the creature is not knocked prone.
 
@@ -50,3 +52,5 @@ _**Reel.**_ The grinning gourd reels in its vines to either move next to a const
 ---
 
 _Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

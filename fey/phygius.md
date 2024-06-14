@@ -1,6 +1,6 @@
 # Phygius
 
-#### Lore
+#### Description
 
 Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/lenya/middlestag-forest.md) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
 
@@ -20,6 +20,8 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/phygius-haru.png" alt="Drawing of Phygius, depicting a stag with three antlers draped in vines and flowers, its forehead emblazoned with an arcane mark, surrounded by ethereal sparkling lights." />
   <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a></figcaption>
 </figure>
+
+[^🎃]
 
 ##### Cultural references
 
@@ -52,7 +54,7 @@ _Large fey (archfey), chaotic neutral_
 - **Languages** Druidic, Sylvan, telepathy 120 ft.
 - **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
 
-#### Special Traits
+#### Special traits
 
 _**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 
@@ -98,4 +100,6 @@ Phygius can take 3 Legendary Actions, choosing from the options below. Only one 
 
 ---
 
-_Source: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

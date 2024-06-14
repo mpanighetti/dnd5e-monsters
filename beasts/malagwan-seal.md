@@ -1,6 +1,6 @@
 # Malagwan Seal
 
-#### Lore
+#### Description
 
 [Selkies](https://github.com/mpanighetti/dnd5e-mote/blob/main/species/selkie.md) in their seal form bear a superficial resemblance to the seal population in the waters of [Malagwa](https://github.com/mpanighetti/dnd5e-mote/blob/main/mote/esterfell/malagwa.md), making it easy for one to go unnoticed amongst a larger pod. Though the seals have no special connection or direct relationship to selkies, the two peacefully coexist, and selkies maintain a great respect for what they see as distant cousins.
 
@@ -21,7 +21,7 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Aquatic Fortitude.**_ While not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
 

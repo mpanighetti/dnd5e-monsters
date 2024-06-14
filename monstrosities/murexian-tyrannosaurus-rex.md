@@ -18,7 +18,7 @@ _Huge beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 10 (5,000 XP) **Proficiency Bonus** +4
 
-#### Special Traits
+#### Special traits
 
 _**Murexian Poison.**_ All murexian Poison damage and conditions dealt by T. rex treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to murexian Poison. Targets with Poison immunity or murexian Poison resistance have Advantage on Saving Throws against murexian Poison, and targets with murexian Poison immunity automatically succeed on such Saving Throws.
 
@@ -36,4 +36,4 @@ _**Tail.**_ _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_

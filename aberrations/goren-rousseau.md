@@ -1,6 +1,8 @@
 # Goren Rousseau
 
-The youngest of the Rousseau children, Goren was corrupted by an entity from the Far Realm. This mutation cursed him with an insatiable desire to consume the life force of other creatures, including his own siblings. He now roams the house, ashamed of his terrible actions but forever compelled to feed again.
+#### Description
+
+The youngest of the Rousseau children, **Goren Rousseau** was corrupted by an entity from the Far Realm. This mutation cursed him with an insatiable desire to consume the life force of other creatures, including his own siblings. He now roams the house, ashamed of his terrible actions but forever compelled to feed again.
 
 Goren's transformation does not have a prescribed fix, as even the great Lynistad Rousseau could not find a solution as she scours the planes cannot be undone by the party. Only death can grant him a release.
 

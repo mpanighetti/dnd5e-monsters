@@ -18,7 +18,7 @@ _Large beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Special traits
 
 _**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits them with a tusk attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, they must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
 
@@ -34,4 +34,4 @@ _**Tusk.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10
 
 ---
 
-_Source: [Mote](https://github.com/mpanighetti/dnd5e-mote)_
+_Sources: [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_
