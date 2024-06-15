@@ -39,29 +39,28 @@ _Medium monstrosity (shapechanger), neutral_
 
 #### Special traits
 
-_**Adhesive.**_ The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 14). Ability checks made to escape this grapple have disadvantage. The mimic can choose to suppress this trait at any time.
+_**Adhesive.**_ The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also Grappled by it (escape DC 14). Ability checks made to escape this Grapple have Disadvantage. The mimic can choose to suppress this trait at any time.
 
-_**Brood Parasitism.**_ When the cuckoo mimic is about to hatch from its egg, all humanoids within 60 feet of it must make a DC 14 Wisdom saving throw; the saving throw DC increases to 18 and is made with disadvantage if the humanoid is unconscious. On a failed save, the humanoid is charmed by the mimic.
+_**Brood Parasitism.**_ When the cuckoo mimic is about to hatch from its egg, all humanoids within 60 feet of it must make a DC 14 Wisdom Saving Throw, which is made with Disadvantage if the humanoid is Unconscious. On a failed Saving Throw, the humanoid is Charmed by the mimic and is considered its host.
 
-While charmed in this manner, a host believes the mimic is someone close to them, their memories are altered to indicate that the mimic has been a part of their lives for an extended time period, and they are compelled to protect the mimic at all costs, including self-sacrifice. The host justifies any inconsistencies found in its altered memories in order to maintain the delusion. The mimic has a persistent psychic connection with all of its hosts, which allows it to know each host's altered memories and surface-level emotions.
+While Charmed in this manner, a host believes the mimic is someone close to them, their memories are altered to indicate that the mimic has been a part of their lives for an extended time period, and they are compelled to protect the mimic at all costs, including self-sacrifice. The host justifies any inconsistencies found in their altered memories in order to maintain the delusion. The mimic has a persistent psychic connection with all of its hosts, which allows it to know their altered memories and surface-level thoughts and emotions.
 
-This charm effect lasts until the mimic dies. If the mimic deals damage to the host, they can repeat their Wisdom saving throw, ending the effect on a successful save.
+This Charmed condition lasts until the mimic dies. If the mimic deals damage to the host, they can repeat their Wisdom Saving Throw, ending the effect on a success.
 
-_**Grappler.**_ The mimic has advantage on attack rolls against any creature grappled by its Adhesive trait.
+_**Grappler.**_ The mimic has Advantage on attack rolls against any creature Grappled by its Adhesive trait.
 
-_**Innate Spellcasting (Psionics).**_ The mimic’s innate spellcasting ability is Wisdom (spell save DC 13). It can innately cast the following spells, requiring no components:
+_**Innate Spellcasting (Psionics).**_ The mimic's innate spellcasting ability is Wisdom (Spell Save DC 13). It can innately cast the following spells, requiring no components:
 
-At will: _mind sliver_
-
-3/day: _mind spike_
+- At will: _mind sliver_
+- 3/day: _mind spike_
 
 #### Actions
 
-_**Pseudopod.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage. If the mimic so chooses, the target is subjected to its Adhesive trait if hit by this attack.
+_**Pseudopod.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) Bludgeoning damage. If the mimic so chooses, the target is subjected to its Adhesive trait if hit by this attack.
 
-_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage plus 4 (1d8) acid damage.
+_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) Piercing damage plus 4 (1d8) Acid damage.
 
-_**Change Shape.**_ The mimic polymorphs into a humanoid of the same race of a random host, or back into its true form, which is amorphous but vaguely humanoid in shape. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+_**Change Shape.**_ The mimic polymorphs into a humanoid of the same species of a random host, or back into its true form, which is amorphous but vaguely humanoid in shape. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ---
 
