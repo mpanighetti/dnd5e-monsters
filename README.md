@@ -64,7 +64,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |  Monstrosity  | [Murexian Twig Blight](monstrosities/murexian-twig-blight.md) | ⅛ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |  Monstrosity  | [Murexian Tyrannosaurus rex](monstrosities/murexian-tyrannosaurus-rex.md) | 10 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc), [Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |      Ooze     | Gray Goo | 27 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|      Ooze     | Snot Hag | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|      Ooze     | [Snot Hag](oozes/snot-hag.md) | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Plant     | Grass Warrior | 18 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Plant     | [Grinning Gourd](plants/grinning-gourd.md) | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Undead    | [Avatar of Debt](undead/avatar-of-debt.md) | 1+ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
