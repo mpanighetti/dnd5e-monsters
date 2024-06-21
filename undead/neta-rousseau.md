@@ -48,9 +48,9 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 
 _**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[^📚]: _Source: Candlekeep Mysteries_
-[^🥘]: _Source: Tasha's Cauldron of Everything_
-[^🔥]: _Source: Elemental Evil Player's Companion_
+[^📚]: Source: _Candlekeep Mysteries_
+[^🥘]: Source: _Tasha's Cauldron of Everything_
+[^🔥]: Source: _Elemental Evil Player's Companion_
 
 ---
 
