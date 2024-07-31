@@ -8,7 +8,7 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Monsters
 
-Monsters are arranged by creature type and listed alphabetically, but any stat blocks that are part of a single family of creatures (e.g. void dragons) will share a single content page. Monsters with multiple creature types will be listed under whatever is considered their primary creature type.
+Monsters are arranged by creature type and listed alphabetically, but any stat blocks that are part of a single family of creatures (e.g. void dragons) will share a single content page. Monsters with multiple creature types will be listed under whatever is considered their primary creature type. Monsters with no default creature type are given the **Special** creature type label, with the specifics of determining their creature type defined within their stat blocks.
 
 | Creature Type | Monster | Challenge | Sources |
 |:-------------:|:--------|:---------:|:--------|
@@ -67,6 +67,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |      Ooze     | [Snot Hag](oozes/snot-hag.md) | 5 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Plant     | Grass Warrior | 18 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Plant     | [Grinning Gourd](plants/grinning-gourd.md) | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|    Special    | [Alchemist's Monster](special/alchemists-monster.md) | — | |
 |     Undead    | [Avatar of Debt](undead/avatar-of-debt.md) | 1+ | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Undead    | [Frogpire](undead/frogpire.md) | 1 | |
 |     Undead    | Lichmare | 14 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
@@ -90,6 +91,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. I
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
 - Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
+- This document adds a new type of potions known as **Alchemist's Potions**, as described in the Alchemist class by balab, used with permission by the author and credited under **Third-Party Content References**.
 
 ## License
 
@@ -116,3 +118,5 @@ _Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
 _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
 
 _Spelljammer: Adventures in Space_ © 2022 Wizards of the Coast LLC.
+
+_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab.
