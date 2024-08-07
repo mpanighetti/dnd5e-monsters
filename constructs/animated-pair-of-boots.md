@@ -17,7 +17,7 @@ _Pair of Tiny constructs, unaligned_
 - **Languages** —
 - **Challenge** ½ (100 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Antimagic Susceptibility.**_ The pair of boots is incapacitated while in the area of an antimagic field. If targeted by _dispel magic_, the boots must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 

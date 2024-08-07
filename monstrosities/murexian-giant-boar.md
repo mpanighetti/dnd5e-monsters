@@ -18,7 +18,7 @@ _Large beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits them with a tusk attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, they must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
 

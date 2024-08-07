@@ -58,7 +58,7 @@ _Medium ooze, unaligned_
 - **Languages** Common, Sylvan
 - **Challenge** 5 (1,800 XP) **Proficiency Bonus** +3
 
-#### Special traits
+#### Traits
 
 _**Amorphous.**_ The hag can move through a space as narrow as 1 inch wide without squeezing.
 

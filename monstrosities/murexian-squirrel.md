@@ -24,7 +24,7 @@ _Tiny beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 

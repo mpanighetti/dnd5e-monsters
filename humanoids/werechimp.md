@@ -34,7 +34,7 @@ _Medium humanoid (any species, shapechanger)_
 - **Languages** Common (can't speak in chimp form)
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Pack Tactics.**_ The werechimp has advantage on attack rolls against a creature if at least one of the werechimp's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

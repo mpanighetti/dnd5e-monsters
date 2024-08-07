@@ -37,7 +37,7 @@ _Medium aberration, chaotic neutral_
 - **Languages:** Common, Deep Speech, Elvish
 - **Challenge:** 5 (1,800 XP) **Proficiency Bonus:** +3
 
-#### Special traits
+#### Traits
 
 _**Negative Self-Image.**_ When Goren can see his own reflection, he shields his eyes, causing him to be blinded. He then spends all his actions either trying to flee or trying to cover or destroy the reflection.
 

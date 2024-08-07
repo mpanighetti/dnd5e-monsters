@@ -17,7 +17,7 @@ _Medium construct, unaligned_
 - **Languages** —
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Antimagic Susceptibility.**_ The corset is incapacitated while in the area of an antimagic field. If targeted by _dispel magic_, the corset must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
 

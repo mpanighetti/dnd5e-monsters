@@ -32,7 +32,7 @@ _Tiny construct, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Antimagic Susceptibility.**_ The trickered treat is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the treat must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall unconscious for 1 minute.
 
@@ -68,7 +68,7 @@ _Medium swarm of Tiny constructs, same alignment as its creator_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** ¼ (50 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Antimagic Susceptibility.**_ The swarm is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the swarm must succeed on a Constitution Saving Throw against the caster's Spell Save DC or fall Unconscious for 1 minute.
 

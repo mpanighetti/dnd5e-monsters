@@ -34,7 +34,7 @@ _Medium fiend (marilith), chaotic evil_
 - **Languages:** Common, Abyssal, Telepathy 120 ft.
 - **Challenge:** 6 (2,300 XP) **Proficiency Bonus** +3
 
-#### Special traits
+#### Traits
 
 _**Magic Resistance.**_ Ag'dramur has advantage on saving throws against spells and other magical effects.
 

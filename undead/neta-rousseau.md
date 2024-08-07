@@ -32,7 +32,7 @@ _Medium undead, lawful neutral_
 - **Languages:** Common, Elvish
 - **Challenge:** 2 (450 XP) **Proficiency Bonus:** +2
 
-#### Special traits
+#### Traits
 
 _**Incorporeal Movement.**_ Neta can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 

@@ -26,7 +26,7 @@ _Large fiend/monstrosity, lawful evil_
 - **Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
 - **Challenge** 5 (1,800 XP) **Proficiency Bonus** +3
 
-#### Special traits
+#### Traits
 
 _**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 

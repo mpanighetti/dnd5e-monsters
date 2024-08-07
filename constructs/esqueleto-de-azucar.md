@@ -22,7 +22,7 @@ _Medium construct, lawful neutral_
 - **Languages:** Understands Common and Sylvan but can't speak
 - **Challenge:** ¼ (50 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Antimagic Susceptibility.**_ The esqueleto is incapacitated while in the area of an _antimagic field_. If targeted by _dispel magic_, the esqueleto must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 

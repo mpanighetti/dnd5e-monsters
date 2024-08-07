@@ -38,7 +38,7 @@ _Medium humanoid (sahuagin), chaotic evil_
 - **Languages:** Common, Abyssal, Infernal, Sahuagin
 - **Challenge:** 5 (1,800 XP) **Proficiency Bonus** +3
 
-#### Special traits
+#### Traits
 
 _**Amphibious.**_ The Great Undying can breathe air and water.
 

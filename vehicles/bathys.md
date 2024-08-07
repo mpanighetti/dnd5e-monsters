@@ -47,7 +47,7 @@ _Gargantuan vehicle (100 ft. by 20 ft.)_
 
 - **Immunities:** Blinded, Charmed, Deafened, Fire, Frightened, Incapacitated, Paralyzed, Petrified, Poison, Prone, Psychic, Stunned, Unconscious
 
-#### Special traits
+#### Traits
 
 _**Magic Weapons.**_ The Bathýs' weapon attacks are magical.
 

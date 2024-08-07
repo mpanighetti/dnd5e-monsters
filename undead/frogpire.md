@@ -21,7 +21,7 @@ _Tiny undead (shapechanger), chaotic evil_
 - **Languages** understands Common but cannot speak
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Regeneration.**_ The frogpire regains 1d4 Hit Points at the start of their turn. If the frogpire takes Radiant damage or is in sunlight, this trait doesn't function at the start of the frogpire's next turn. If the frogpire starts their turn with 0 Hit Points and doesn't regenerate, they are destroyed.
 

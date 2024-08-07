@@ -18,7 +18,7 @@ _Huge beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 10 (5,000 XP) **Proficiency Bonus** +4
 
-#### Special traits
+#### Traits
 
 _**Murexian Poison.**_ All murexian Poison damage and conditions dealt by T. rex treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to murexian Poison. Targets with Poison immunity or murexian Poison resistance have Advantage on Saving Throws against murexian Poison, and targets with murexian Poison immunity automatically succeed on such Saving Throws.
 

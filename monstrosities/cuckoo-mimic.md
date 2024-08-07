@@ -37,7 +37,7 @@ _Medium monstrosity (shapechanger), neutral_
 - **Languages** none in true form; speaks all the languages of its hosts in humanoid form
 - **Challenge** 4 (1,100 XP) **Proficiency Bonus:** +2
 
-#### Special traits
+#### Traits
 
 _**Adhesive.**_ The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also Grappled by it (escape DC 14). Ability checks made to escape this Grapple have Disadvantage. The mimic can choose to suppress this trait at any time.
 

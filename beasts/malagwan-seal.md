@@ -21,7 +21,7 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Aquatic Fortitude.**_ While not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
 

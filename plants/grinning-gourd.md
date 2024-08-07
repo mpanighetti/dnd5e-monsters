@@ -31,7 +31,7 @@ _Small plant, unaligned_
 - **Languages** understands the languages of its creator but cannot speak
 - **Challenge** 3 (700 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**Explode.**_ When the grinning gourd is reduced to 0 hit points, it immediately explodes in a concussive blast of flame. All creatures within a 20-foot radius must make a DC 14 Dexterity saving throw. On a failed save, a creature takes 16 (3d10) fire damage and is knocked prone. On a succesful save, the fire damage is halved and the creature is not knocked prone.
 

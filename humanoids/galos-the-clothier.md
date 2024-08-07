@@ -38,7 +38,7 @@ _Medium humanoid (human), neutral evil_
 - **Languages** Common, Infernal
 - **Challenge** 11 (7,200 XP) **Proficiency Bonus** +4
 
-#### Special traits
+#### Traits
 
 _**Spellcasting.**_ Galos is an 18th-level spellcaster. His spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). Instead of spell slots, each time he casts a spell at 1st level or higher, he substitutes his own blood for any material components and deals himself 2 (1d4) piercing damage. He knows the following warlock spells:
 

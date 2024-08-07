@@ -34,7 +34,7 @@ _Large aberration/monstrosity, lawful evil_
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 13 (10,000 XP) **Proficiency Bonus** +5
 
-#### Special traits
+#### Traits
 
 _**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot-cone. At the start of each of their turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 

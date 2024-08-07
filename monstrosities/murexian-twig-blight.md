@@ -18,7 +18,7 @@ _Small plant/monstrosity, neutral evil_
 - **Languages** understands Common but can't speak
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
-#### Special traits
+#### Traits
 
 _**False Appearance.**_ While the blight remains motionless, they are indistinguishable from a dead shrub.
 
