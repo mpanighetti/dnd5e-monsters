@@ -32,7 +32,7 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 #### Actions
 
 - _**Alchemical Strike.** Melee Attack Roll:_ + STR + PB, reach 5 ft.[^👹] _Hit:_ 3 (1d6) Bludgeoning damage + PB alchemical[^👹] damage.
-- _**Lob Essence.**_ The alchemist's monster rips off a chunk of its own body and throws it at the target, dealing itself 3d6 alchemical[^👹] damage which ignores the monster's alchemical resistance. _Ranged Attack Roll:_ + STR + PB, range 20/60 ft. _Hit:_ The target takes alchemical damage equal to the damage the monster dealt to itself.
+- _**Lob Essence.**_ The alchemist's monster rips off a chunk of its own body and throws it at the target, dealing itself 3d6 Force damage. _Ranged Attack Roll:_ + STR + PB, range 20/60 ft. _Hit:_ The target takes alchemical damage equal to the damage the monster dealt to itself.
 
 #### Reactions
 
