@@ -47,5 +47,8 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 | Sample of an element (air, earth, fire, or water) in a container | Elemental (of the same element as the sample) | Cold (water), Fire (fire), Lightning (air), or Poison (earth) |
 | Slime or any liquid | Ooze | Acid |
 
-[^🧪]: Alchemist class by balab.
 [^👹]: See **Alchemical Nature**.
+
+---
+
+_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
