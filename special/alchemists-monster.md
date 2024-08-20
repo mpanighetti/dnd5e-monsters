@@ -51,4 +51,4 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 
 ---
 
-_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
+_Source: [Kohl's Laboratory](https://github.com/mpanighetti/dnd5e-kohls-laboratory)_
