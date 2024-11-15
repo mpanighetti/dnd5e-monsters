@@ -15,7 +15,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |  Aberration   | Apep the Fallen | 30 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Bears Repeating | 24 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Echoes of a Failed World | 29 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|  Aberration   | False Shadow | 7 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|  Aberration   | [False Shadow](aberrations/false-shadow.md) | 7 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | [Goren Rousseau](aberrations/goren-rousseau.md) | 5 | _[Chateau Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md)_ |
 |  Aberration   | Living Empty | 19 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |  Aberration   | Seaharvest Horror | 12 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
