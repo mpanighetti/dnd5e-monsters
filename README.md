@@ -22,7 +22,7 @@ Monsters are arranged by creature type and listed alphabetically, but any stat b
 |     Beast     | Crabnado | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | Dallasaurus | 1 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | Drop Bear | 3 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
-|     Beast     | Giant Squid | 6 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
+|     Beast     | [Giant Squid](beasts/giant-squid.md) | 6 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | Liodon | 6 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
 |     Beast     | [Malagwan Seal](beasts/malagwan-seal.md) | ⅛ | _[Mote](https://github.com/mpanighetti/dnd5e-mote)_ |
 |     Beast     | Mosasaurus | 15 | _[Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc)_ |
