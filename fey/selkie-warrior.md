@@ -2,7 +2,7 @@
 
 #### Description
 
-[Selkie](https://github.com/mpanighetti/dnd5e-mote/blob/main/species/selkie.md) pods fiercely defend themselves from hostile intrusions, with warriors acting as a protective barrier to shelter the community's pups.
+[Selkie](https://github.com/mpanighetti/dnd5e-mote/blob/main/ch-5-character-options/species/selkie.md) pods fiercely defend themselves from hostile intrusions, with warriors acting as a protective barrier to shelter the community's pups.
 
 #### Attributes
 
